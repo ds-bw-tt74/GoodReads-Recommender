@@ -17,7 +17,6 @@ pandas = "*"
 plotly = "*"
 sqlalchemy = "*"
 uvicorn = {extras = ["standard"], version = "*"}
-kaggle = "*"
 
 [requires]
 python_version = "3"

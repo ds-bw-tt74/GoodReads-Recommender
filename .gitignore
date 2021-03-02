@@ -145,9 +145,13 @@ cython_debug/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 <<<<<<< HEAD
+<<<<<<< HEAD
 !.elasticbeanstalk/*.global.yml
 *.iml
 *.csv
+=======
+!.elasticbeanstalk/*.global.yml
+>>>>>>> parent of e7efd1b (Ignore .iml files)
 =======
 !.elasticbeanstalk/*.global.yml
 >>>>>>> parent of e7efd1b (Ignore .iml files)

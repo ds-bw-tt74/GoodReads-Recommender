@@ -19,6 +19,10 @@ sqlalchemy = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 bs4 = "*"
 spacy = "*"
+gensim = "*"
+matplotlib = "*"
+sklearn = "*"
+joblib = "*"
 
 [requires]
 python_version = "3"
